@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #212121;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+#game-container {
+    width: 800px;
+    height: 600px;
+    border: 1px solid #9e9e9e;
+    background-color: #424242;
+}
+#score-board {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    color: #ffffff;
+}

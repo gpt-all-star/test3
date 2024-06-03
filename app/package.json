@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "open-cli": "^8.0.0",
+    "phaser": "^3.55.2"
+  }
+}
